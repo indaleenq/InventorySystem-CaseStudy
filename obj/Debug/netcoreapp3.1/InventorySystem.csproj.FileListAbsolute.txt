@@ -1,0 +1,13 @@
+C:\Users\A17909.000\source\repos\InventorySystem\bin\Debug\netcoreapp3.1\InventorySystem.exe
+C:\Users\A17909.000\source\repos\InventorySystem\bin\Debug\netcoreapp3.1\InventorySystem.deps.json
+C:\Users\A17909.000\source\repos\InventorySystem\bin\Debug\netcoreapp3.1\InventorySystem.runtimeconfig.json
+C:\Users\A17909.000\source\repos\InventorySystem\bin\Debug\netcoreapp3.1\InventorySystem.runtimeconfig.dev.json
+C:\Users\A17909.000\source\repos\InventorySystem\bin\Debug\netcoreapp3.1\InventorySystem.dll
+C:\Users\A17909.000\source\repos\InventorySystem\bin\Debug\netcoreapp3.1\InventorySystem.pdb
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.AssemblyInfo.cs
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.dll
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.pdb
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.genruntimeconfig.cache
+C:\Users\A17909.000\source\repos\InventorySystem\obj\Debug\netcoreapp3.1\InventorySystem.csprojAssemblyReference.cache
