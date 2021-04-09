@@ -21,7 +21,7 @@ namespace InventorySystem
             Console.WriteLine("Available Product: " + productName);
 
             Console.WriteLine();
-            Console.WriteLine("Please type: \'q\' if you want to view quantity. b if you want to buy: ");
+            Console.WriteLine("Please type:");
             Console.WriteLine("\'q\' if you want to view " + productName + "'s quantity.");
             Console.WriteLine("\'b\' if you want to buy " + productName + ".");
             Console.WriteLine("\'i\' if you want to view information about product " + productName + ".");
