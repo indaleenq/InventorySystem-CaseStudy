@@ -27,6 +27,7 @@ namespace InventorySystem
             DateTime expirationDate;
             int productQuantity = 500;
 
+
             Console.WriteLine("WELCOME TO INVENTORY SYSTEM");
             Console.WriteLine($"(only) Available Product (for now): {productName} \n");
 
