@@ -1,0 +1,7 @@
+obj
+.vs
+bin
+IMS.BL.csproj
+IMS.UI.csproj
+IMS.Common.csproj
+IMS.DL.csproj
