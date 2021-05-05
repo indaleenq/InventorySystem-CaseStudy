@@ -72,13 +72,12 @@ namespace IMS.BL
             return totalQuantity;
         }
 
-        //known bug: doesn't calculate the exact price
           private double GetTotalPrice()
         {
             var totalPrice = 0.0;
             foreach (var item in _orderedItems)
             {
-                totalPrice += item.Price;
+                totalPrice += (item.Quantity * item.Price);
             }
             return totalPrice;
         }
